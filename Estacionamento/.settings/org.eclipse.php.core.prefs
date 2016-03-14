@@ -1,5 +1,2 @@
-=\=\=\=\=\=\=
-<<<<<<<=HEAD
->>>>>>>=branch 'master' of https\://github.com/ale87/Estacionamento.git
 eclipse.preferences.version=1
-include_path=
+include_path=0;/Estacionamento
